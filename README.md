@@ -36,7 +36,7 @@ Data is pushed from sensors directly to [Sensor.community](https://sensor.commun
 
 ### Example data
 
-[A JSON file containing](https://github.com/AirAberdeen/meta/examples/data/bq_data.json) 24 hours of sensor data from several Aberdeen sensors is available in the repo for you to test with.
+[A JSON file containing](https://github.com/AirAberdeen/meta/tree/master/examples/data) 24 hours of sensor data from several Aberdeen sensors is available in the repo for you to test with.
 
 ```JSON
 {
