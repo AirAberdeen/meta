@@ -13,6 +13,7 @@ For details information on specific subjects you check out the [wiki](https://gi
 - **[Sensor Community](https://sensor.community/)** (this used to be Luftdaten)
 - **[Sensor Community Forum](https://forum.sensor.community/)**
 - **[Sensor Community Mattermost](https://chat.sensor.community/)** (an opensource alternative to Slack)
+- **[Sensor Community Archive](http://archive.sensor.community/)** (CSV archives of sensor data)
 - **[AirTable Database of Devices](https://airtable.com)** (this is private to the steering group)
 
 ## Active projects
